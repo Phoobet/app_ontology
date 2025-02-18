@@ -8,7 +8,12 @@
 pip install -r requirements.txt
 ```
 
-#### 2. Running Web Appp
+#### 2. Download fuzzywuzzy
+```bash
+pip install fuzzywuzzy
+```
+
+#### 3. Running Web Appp
 
 ```bash
 streamlit run app.py
